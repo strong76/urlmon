@@ -1,6 +1,7 @@
 # urlmon
 本worker用于按指定的时间周期访问指定的网络地址，如果访问失败可以发信息到指定的Telegram账号
-
+worker默认用户名admin，密码password
+详细设置见源码
 
 部署步骤说明
 第一步：创建KV命名空间
